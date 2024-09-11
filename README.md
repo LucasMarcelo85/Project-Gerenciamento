@@ -48,26 +48,24 @@ Clone o repositório:
 
 Copiar código
 ```
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/LucasMarcelo85/Project-Gerenciamento.git)
+```
 Navegue até o diretório do projeto:
 
-Copiar código
-cd nome-do-repositorio
-```
-Abra o arquivo index.html no seu navegador.
-💡 Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request para melhorar o projeto.
 
-📄 Licença
+Abra o arquivo index.html no seu navegador.
+
+
+## 📄 Licença
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
-<h1>Membros ativos do projeto <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Brazil.webp" alt="Flag Brazil" width="25" height="25" /></h1>
+## <h1>Membros ativos do projeto <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Brazil.webp" alt="Flag Brazil" width="25" height="25" /></h1>
 
 
    <div><img src="https://github.com/LucasMarcelo85.png" height="90px"><p><strong>Lucas Marcelo N Souza</strong></p><img src="https://github.com/brunoricardo1523.png" height="90px"><p><strong>Bruno Ricardo de Souza Dantas</strong></p></div>
          
 
-   <h1>Tecnologias utilizadas</h1>
+  # <h1>Tecnologias utilizadas</h1>
 
 <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="100" height="100" /><sub>  </sub><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" />  <sub> </sub><img src="https://github.com/user-attachments/assets/729c9d30-f1de-45b0-85f2-bb8790282884" alt="icon" width="100" height="100" /> <sub></sub><img src="https://media.tenor.com/F_aIpdp3hEwAAAAi/git-github.gif" alt="icon" width="150" height="100" /> <br> <sub> </sub>
 
