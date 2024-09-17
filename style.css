@@ -35,3 +35,12 @@ a:hover {
     color: darkgoldenrod;
     text-decoration: none;
 }
+
+.row div{
+    display: flex;
+    flex-direction: row;
+    padding: 1em;
+}
+.row{
+    padding: 6em;
+}
